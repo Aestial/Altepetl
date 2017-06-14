@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 3cb6e196d5da149458bc555a307d69f5
+timeCreated: 1464834295
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BrazoDer
+    21300002: BrazoIzq
+    21300004: Cabeza
+    21300006: Cuerpo
+    21300008: PiernaDer
+    21300010: PiernaIzq
+    21300012: PieDer
+    21300014: PieIzq
+    21300016: Lanza
+    21300018: Brazo_D
+    21300020: Brazo_I
+    21300022: Ante_I
+    21300024: Mano_I
+    21300026: Ante_D
+    21300028: Mano_D
+    21300030: AdornoCuello
+    21300032: Pierna_D
+    21300034: Pierna_I
+    21300036: Torso
+    21300038: Panto_D
+    21300040: Panto_I
+    21300042: Pie_I
+    21300044: Pie_D
+    21300046: Lanza
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Brazo_D
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 450
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.8254373, y: 0.9023263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.14468, y: -19.530273}
+        - {x: -37.14468, y: -50.530273}
+        - {x: -20.14468, y: -50.530273}
+        - {x: 7.85532, y: -24.530273}
+        - {x: 7.85532, y: 5.4697266}
+        - {x: -25.14468, y: 5.4697266}
+    - name: Brazo_I
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 480
+        width: 52
+        height: 25
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ante_I
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 439
+        width: 39
+        height: 65
+      alignment: 9
+      pivot: {x: 0.15338096, y: 0.8292884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.9818573, y: -28.903748}
+        - {x: 8.018143, y: -53.903748}
+        - {x: 33.018143, y: -53.903748}
+        - {x: 33.018143, y: -30.903748}
+        - {x: 21.018143, y: 11.096252}
+        - {x: -2.9818573, y: 11.096252}
+        - {x: -5.9818573, y: 1.0962524}
+      - - {x: -5.9818573, y: -46.903748}
+        - {x: -2.9818573, y: -46.903748}
+        - {x: -0.9818573, y: -44.903748}
+        - {x: -1.9818573, y: -41.903748}
+        - {x: -5.9818573, y: -41.903748}
+    - name: Mano_I
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 464
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.17456326, y: 0.84421283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.144653, y: 5.6083374}
+        - {x: 3.1446533, y: 5.6083374}
+        - {x: -7.8553467, y: -2.3916626}
+        - {x: -7.8553467, y: -21.391663}
+        - {x: -5.8553467, y: -25.391663}
+        - {x: -0.8553467, y: -30.391663}
+        - {x: 32.144653, y: -30.391663}
+        - {x: 37.144653, y: -29.391663}
+        - {x: 37.144653, y: 2.6083374}
+        - {x: 32.144653, y: 4.6083374}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 396
+        width: 116
+        height: 112
+      alignment: 9
+      pivot: {x: 0.40288702, y: 0.122819625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.734894, y: 98.2442}
+        - {x: -41.734894, y: 70.2442}
+        - {x: -41.734894, y: -0.75579834}
+        - {x: -18.734894, y: -13.755798}
+        - {x: 52.265106, y: -13.755798}
+        - {x: 69.26511, y: 11.244202}
+        - {x: 69.26511, y: 51.2442}
+        - {x: 55.265106, y: 98.2442}
+      - - {x: -43.734894, y: 23.244202}
+        - {x: -43.734894, y: 26.244202}
+        - {x: -46.734894, y: 27.244202}
+        - {x: -46.734894, y: 22.244202}
+    - name: Ante_D
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 392
+        width: 87
+        height: 29
+      alignment: 9
+      pivot: {x: 0.18923806, y: 0.6748047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Mano_D
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 372
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2776622, y: 0.6877524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5511627, y: 14.9878845}
+        - {x: -10.551163, y: -3.0121155}
+        - {x: -10.551163, y: -14.0121155}
+        - {x: 2.4488373, y: -33.012115}
+        - {x: 22.448837, y: -33.012115}
+        - {x: 27.448837, y: -25.012115}
+        - {x: 27.448837, y: 9.9878845}
+        - {x: 21.448837, y: 14.9878845}
+    - name: AdornoCuello
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 361
+        width: 96
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7636524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -4.8916626}
+        - {x: 15, y: 10.108337}
+        - {x: -2, y: 11.108337}
+        - {x: -20, y: 11.108337}
+        - {x: -26, y: 10.108337}
+        - {x: -43, y: 1.1083374}
+        - {x: -48, y: -2.8916626}
+        - {x: -48, y: -28.891663}
+        - {x: -37, y: -35.891663}
+        - {x: 27, y: -35.891663}
+        - {x: 29, y: -34.891663}
+        - {x: 45, y: -25.891663}
+        - {x: 48, y: -23.891663}
+        - {x: 48, y: -6.8916626}
+    - name: Pierna_D
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 48
+        height: 91
+      alignment: 9
+      pivot: {x: 0.59387636, y: 0.9456532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.506065, y: 4.9455566}
+        - {x: -28.506065, y: -20.054443}
+        - {x: -23.506065, y: -39.054443}
+        - {x: -15.506065, y: -86.05444}
+        - {x: 0.49393463, y: -86.05444}
+        - {x: 19.493935, y: -77.05444}
+        - {x: 19.493935, y: 4.9455566}
+    - name: Pierna_I
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 240
+        width: 47
+        height: 73
+      alignment: 9
+      pivot: {x: 0.08055407, y: 0.86264455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.7860413, y: 10.026947}
+        - {x: -3.7860413, y: -38.973053}
+        - {x: 2.2139587, y: -62.973053}
+        - {x: 43.21396, y: -62.973053}
+        - {x: 43.21396, y: -29.973053}
+        - {x: 15.213959, y: 10.026947}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 128
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5220022, y: 0.6748924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.816284, y: 71.19856}
+        - {x: -66.816284, y: 21.198563}
+        - {x: -66.816284, y: -27.801437}
+        - {x: -56.816284, y: -34.801437}
+        - {x: -31.816284, y: -33.801437}
+        - {x: 2.1837158, y: -147.80144}
+        - {x: 61.183716, y: -147.80144}
+        - {x: 61.183716, y: 71.19856}
+      - - {x: -45.816284, y: -121.80144}
+        - {x: -43.816284, y: -123.80144}
+        - {x: -40.816284, y: -122.80144}
+        - {x: -39.816284, y: -118.80144}
+        - {x: -41.816284, y: -116.80144}
+        - {x: -44.816284, y: -117.80144}
+      - - {x: 58.183716, y: -61.801437}
+        - {x: 61.183716, y: -60.801437}
+        - {x: 61.183716, y: -57.801437}
+        - {x: 50.183716, y: -36.801437}
+        - {x: 44.183716, y: -36.801437}
+        - {x: 44.183716, y: -45.801437}
+      - - {x: -65.816284, y: -41.801437}
+        - {x: -64.816284, y: -44.801437}
+        - {x: -61.816284, y: -44.801437}
+        - {x: -59.816284, y: -42.801437}
+        - {x: -60.816284, y: -39.801437}
+        - {x: -63.816284, y: -39.801437}
+      - - {x: -43.816284, y: 59.198563}
+        - {x: -45.816284, y: 55.198563}
+        - {x: -45.816284, y: 53.198563}
+        - {x: -43.816284, y: 52.198563}
+        - {x: -41.816284, y: 52.198563}
+        - {x: -38.816284, y: 55.198563}
+        - {x: -38.816284, y: 57.198563}
+        - {x: -40.816284, y: 59.198563}
+    - name: Panto_D
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.82856643, y: 0.9530542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.343216, y: 4.3190155}
+        - {x: -23.656784, y: 4.3190155}
+        - {x: -50.656784, y: -51.680984}
+        - {x: -59.656784, y: -80.680984}
+        - {x: -59.656784, y: -87.680984}
+        - {x: -48.656784, y: -87.680984}
+        - {x: -28.656784, y: -83.680984}
+        - {x: 7.343216, y: -25.680984}
+        - {x: 12.343216, y: -13.6809845}
+        - {x: 12.343216, y: 0.3190155}
+    - name: Panto_I
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 53
+        height: 81
+      alignment: 9
+      pivot: {x: 0.2449407, y: 0.9380885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9818573, y: 5.0148315}
+        - {x: -12.981857, y: 0.014831543}
+        - {x: -12.981857, y: -18.985168}
+        - {x: 10.018143, y: -75.98517}
+        - {x: 26.018143, y: -75.98517}
+        - {x: 40.018143, y: -72.98517}
+        - {x: 40.018143, y: -59.98517}
+        - {x: 22.018143, y: 5.0148315}
+    - name: Pie_I
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 59
+        width: 78
+        height: 36
+      alignment: 9
+      pivot: {x: 0.17504452, y: 0.8911506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.653473, y: 3.918579}
+        - {x: -13.653473, y: -27.08142}
+        - {x: 0.3465271, y: -32.08142}
+        - {x: 63.346527, y: -32.08142}
+        - {x: 64.34653, y: -30.08142}
+        - {x: 64.34653, y: -11.081421}
+        - {x: 33.346527, y: 3.918579}
+    - name: Pie_D
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 78
+        height: 33
+      alignment: 9
+      pivot: {x: 0.218372, y: 0.8413679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.033016, y: 5.2348595}
+        - {x: -17.033016, y: -0.76514053}
+        - {x: -17.033016, y: -24.76514}
+        - {x: -15.033016, y: -27.76514}
+        - {x: 60.966984, y: -27.76514}
+        - {x: 60.966984, y: -6.7651405}
+        - {x: 40.966984, y: 5.2348595}
+    - name: Lanza
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 19
+        width: 257
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
